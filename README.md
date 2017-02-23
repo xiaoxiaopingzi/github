@@ -10,3 +10,5 @@
 
 #粗体和斜体
 > 这是**万志文**的第一个*github*项目
+
+Rename是对文件重命名的java类，ChineseCharEncoding是将中文对应的各种编码
